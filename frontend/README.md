@@ -1,10 +1,10 @@
 # Notes Pro Frontend
 
-A modern, premium-looking Angular application for managing notes with a beautiful dark theme UI.
+A modern Angular application for managing notes .
 
 ## Features
 
-- ✨ Modern, premium dark theme UI
+- ✨ Modern UI
 - 📝 Create, read, update, and delete notes
 - 🎨 Beautiful animations and transitions
 - 📱 Responsive design for all devices
